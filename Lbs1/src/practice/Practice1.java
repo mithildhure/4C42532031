@@ -7,7 +7,7 @@ public class Practice1 {
 //	Note: if u saw the answer 2 times repeat full code
 				
 //  full day 1
-//		Check if a number is armstrong
+//		Check if a number is armstrong or not
 //		153 = 1^3 + 5^3 + 3^3
 		int num = 153;
 		int n = num;
